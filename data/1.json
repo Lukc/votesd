@@ -1,0 +1,51 @@
+{
+	"title": "Utiliser `votesd` lors des prises de décision",
+	"description": "`votesd` est un outil de gestion des votes de Tartines écrit par Lukc.\n\nL’outil est écrit en Crystal, fonctionne sans dépendance externe, et a été conçu pour être facile à déployer.",
+	"ballots": [
+		{
+			"user": "Lukc",
+			"type": "without opinion",
+			"comment": "Not taking part because author of the software."
+		},
+		{
+			"user": "Good Lukc",
+			"type": "in favor",
+			"comment": "In favor due to the lack of anything better."
+		},
+		{
+			"user": "Another Good Lukc",
+			"type": "in favor"
+		},
+		{
+			"user": "Bad Lukc",
+			"type": "opposed to",
+			"comment": "**Critical** features are still missing."
+		},
+		{
+			"user": "Uncertain Lukc",
+			"type": "without opinion"
+		},
+		{
+			"user": "MIA Lukc",
+			"type": "unset",
+			"comment": "I don’t have right to an opinion and this comment shouldn’t be displayed."
+		},
+		{
+			"user": "Lukc’s best friend",
+			"type": "in favor",
+			"comment": "This looks technically good. Probably.",
+			"decisive": false
+		},
+		{
+			"user": "Not Lukc’s best friend",
+			"type": "opposed to",
+			"comment": "Still needs some cleaning. Also, who designed those voting rules, seriously?",
+			"decisive": false
+		},
+		{
+			"user": "??!?!!?NOT_LUKCAEÉ??A",
+			"type": "OH NO THIS KOULD BE BROKEN",
+			"comment": "I don’t have right to an opinion and this comment shouldn’t be displayed."
+		}
+	]
+}

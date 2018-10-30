@@ -1,0 +1,26 @@
+{
+	"title": "Something accepted",
+	"ballots": [
+		{
+			"user": "Lukc",
+			"type": "without opinion"
+		},
+		{
+			"user": "Good Lukc",
+			"type": "in favor"
+		},
+		{
+			"user": "Bad Lukc",
+			"type": "unset"
+		},
+		{
+			"user": "Uncertain Lukc",
+			"type": "without opinion",
+			"comment": "Not taking part until meteorological conditions improve."
+		},
+		{
+			"user": "Not Lukc",
+			"type": "unset"
+		}
+	]
+}

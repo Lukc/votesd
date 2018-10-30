@@ -1,0 +1,26 @@
+name: votesd
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of votesd
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  html_builder:
+    github: crystal-lang/html_builder
+    branch: master
+
+targets:
+  votesd:
+    main: src/main.cr
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
